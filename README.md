@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
 
-<p align="left" dir="auto">  </p>
+<img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/95c0a392ab4061b05f8a9.png">
 
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/263345c381512285d2060.gif">
 </br>
