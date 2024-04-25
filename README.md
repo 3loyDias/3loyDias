@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://media.discordapp.net/attachments/884520876324819038/1232875778723549245/standard.gif?ex=662b0c8b&is=6629bb0b&hm=8b700e793c1629adaaaa29fc8d34938ae7ffe27e4e553320ea9de98efd6fc0ec">
+<img align="center" alt="Coding" src="https://telegra.ph/file/23edd80668f6249fe0527.gif">
 
 <h1 align="center">Hello World!
 
