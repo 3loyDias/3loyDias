@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" style="margin-left: 20px;" src="https://telegra.ph/file/23edd80668f6249fe0527.gif">
+<img align="center" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/23edd80668f6249fe0527.gif">
 
 <h1 align="center">Hello World!
 
