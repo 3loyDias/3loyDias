@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
+
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/263345c381512285d2060.gif">
 </br>
 
@@ -22,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3loydias&show_icons=true&locale=en" alt="3loydias" /></p>
 
-<img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
+
