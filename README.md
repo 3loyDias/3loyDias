@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
 
-<img align="right" alt="Coding" style="margin-left: 60px;" src="https://drive.google.com/file/d/1wVJIx2Iydx4PkiAcceFCieZNFDVmm9Lc/preview">
+<img align="right" alt="Coding" style="margin-left: 60px;" src="https://cdn.discordapp.com/attachments/884520876324819038/1232921461564510218/Sem_Titulo-1.png?ex=662b3717&is=6629e597&hm=0cac418c98f0a9b10c27cb37efe58251342cd56640504d7c8bd7822125ed18c5&">
 
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/263345c381512285d2060.gif">
 </br>
