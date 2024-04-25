@@ -1,6 +1,6 @@
+<h1 align="center">https://cdn.discordapp.com/attachments/884520876324819038/1232874839866343515/standard_1.gif?ex=662b0bab&is=6629ba2b&hm=d1da2cfcbd8cccabdce24891ed9e70d7e6f8e5bfce2c3bcfda171281d13112db&
 <h1 align="center">Hello World!
 
-![wakatime](https://wakatime.com/badge/user/aad6c893-0cb2-4fcb-bcaa-21dd0f2156fc.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3loydias&label=Profile%20views&color=0e75b6&style=flat" alt="3loydias" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3loydias" alt="3loydias" /></a> </p>
