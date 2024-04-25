@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/95cb038f04b0870989d9e.gif">
+<img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/263345c381512285d2060.gif">
+</br>
 
 <h1 align="center">Hello World!
 
