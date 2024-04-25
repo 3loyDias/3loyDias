@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3loydias&show_icons=true&locale=en" alt="3loydias" /></p>
 
+<img align="right" alt="Coding" style="margin-left: 60px;" src="https://vk.com/doc229182406_672563405?hash=wJwJF4nZ7THFqC91DvfwQEZEav0MWZWXjsqVU6Te2mw&dl=uHTWxozZ8PLbGJ7k2x72rpzYRGXz5Dzh1NpgKbA2KhL&wnd=1&module=im">
+
 
