@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/95cb038f04b0870989d9e.gif">
 
-<h1 align="center">Hello World! there is
+<h1 align="center">Hello World!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3loydias&label=Profile%20views&color=0e75b6&style=flat" alt="3loydias" /> </p>
 
