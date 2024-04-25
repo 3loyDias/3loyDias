@@ -22,6 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3loydias&show_icons=true&locale=en" alt="3loydias" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3loydias&" alt="3loydias" /></p>
-
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
