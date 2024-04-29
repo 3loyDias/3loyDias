@@ -28,4 +28,6 @@
 
 <img align="left" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/5343f0344c6264680b451.gif">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)
+
 
