@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3loydias&show_icons=true&locale=en" alt="3loydias" /></p>
 
-<img align="left" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/5343f0344c6264680b451.gif">
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)
 
