@@ -22,12 +22,13 @@
 
 [![3loyDias's GitHub | Stats](https://stats.quine.sh/3loyDias/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=3loyDias)
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3loydias&show_icons=true&locale=en&layout=compact" alt="3loydias" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3loydias&show_icons=true&locale=en" alt="3loydias" /></p>
 
+<img align="left" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/5343f0344c6264680b451.gif">
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)
 
 
