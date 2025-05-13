@@ -3,6 +3,7 @@
   <details>
     <summary>Several trophies</summary>
     <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
+    </p>
     <img align="left" alt="Coding" style="margin-left: 60px;" src="https://nextjs.org/_next/image?url=%2Fapi%2Flearn-certificate-og%3Fcourse%3Ddashboard-app%26user%3D56855%26mode%3Dsystem&w=1200&q=75">
   </details>
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/4884660bbca180e48cc5a.png">
@@ -37,6 +38,8 @@
 
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/4884660bbca180e48cc5a.png">
 </br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oycdk7us6v9mdqgp1dvjob3r8&width={width})
 
 
 
