@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there!+I+am+Izbunia...;Front-end+Developer." alt="Typing SVG" /></a>
-<img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
+</p>
   <details>
     <summary>Several trophies</summary>
     <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/9d8b7eb9b82714ab80535.jpg">
