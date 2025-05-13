@@ -39,7 +39,7 @@
 <img align="right" alt="Coding" style="margin-left: 60px;" src="https://telegra.ph/file/4884660bbca180e48cc5a.png">
 </br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oycdk7us6v9mdqgp1dvjob3r8&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oycdk7us6v9mdqgp1dvjob3r8)
 
 
 
