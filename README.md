@@ -23,7 +23,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -67,23 +67,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">I'm Izbunia from Ukraine<br><br>- 🔭 I’m working as front-end developer.<br>- 📚 I'm currently learning at AEFFL<br>- ⚡ In my free time I like droshit</p>
 
 ###
 
-<p align="left">I'm Izbunia from Ukraine<br><br>- 🔭 I’m working as front-end developer.<br>- 📚 I'm currently learning at AEFFL<br>- ⚡ In my free time I like droshit</p>
+<h3 align="center">Languages:</h3>
 
 ###
 
-<h3 align="left">Languages:</h3>
-
-###
-
-<p align="left">Ukraine<br>Russian<br>Portuguese<br>English<br>Modavian</p>
+<p align="center">Ukraine<br>Russian<br>Portuguese<br>English<br>Modavian</p>
 
 ###
 
