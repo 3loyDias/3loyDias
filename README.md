@@ -63,23 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<p align="center">I'm Izbunia from Ukraine<br><br>- 🔭 I’m working as front-end developer.<br>- 📚 I'm currently learning at AEFFL<br>- ⚡ In my free time I like droshit</p>
-
-###
-
-<h3 align="center">Languages:</h3>
-
-###
-
-<p align="center">Ukraine<br>Russian<br>Portuguese<br>English<br>Modavian</p>
-
-###
 
 <div align="center">
   <img height="200" src="https://telegra.ph/file/5343f0344c6264680b451.gif"  />
