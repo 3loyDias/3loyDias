@@ -65,7 +65,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://telegra.ph/file/5343f0344c6264680b451.gif"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/884520876324819038/1373953813035089973/641939f41326c9099132f8ff7d8a5cd9.mp4.gif?ex=682c49b3&is=682af833&hm=33be1dc6a14685e986b8a58596f855c42f47c672eddf4471524f05ac1969bcd9&"  />
 </div>
 
 ###
