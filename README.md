@@ -76,10 +76,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3loydIas/3loydIas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3loydIas/3loydIas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3loydIas/3loydIas/output/pacman-contribution-graph.svg">
-</picture>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3loydias&show_icons=true&locale=en&layout=compact" alt="3loydias" /></p>
 
 ###
